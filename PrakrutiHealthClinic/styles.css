@@ -1,0 +1,93 @@
+img{
+  width: 220px;
+  height: 220px;
+  border-radius: 75px;
+  border: solid 4px ;
+  margin: 7%;
+}
+.yogaphoto{
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+  margin: 2%;
+}
+.navigation{
+  background-color: #f5b461;
+  padding: 2%;
+}
+a.brand{
+  font-size: 3rem;
+  font-family: serif;
+  text-shadow: 2px 2px #f9f7cf;
+}
+.nav-item a{
+  font-size: 1.5rem;
+}
+.navigationbar{
+  color: #f9e0ae;
+}
+body{
+  background-color: #f9f7cf;
+}
+.yoga{
+  text-align: center;
+  padding: 20px;
+  background-color: #f9e0ae;
+  margin-top: 50px;
+}
+.quote{
+  font-size: 1.3rem;
+}
+.quote1{
+  text-align: center;
+  padding: 2%;
+}
+.Ayurveda{
+  text-align: center;
+  padding-top: 2%;
+}
+.Ayurved1, .Ayurved2{
+  width: 50%;
+  float: left;
+  padding: 80px;
+  font-size: 1.2rem;
+}
+
+hr{
+  border: dotted #ffa62b 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 60px auto;
+}
+
+#facilities{
+  text-align: center;
+  padding: 2%;
+}
+.Facilities1, .Facilities2, .Facilities3, .Facilities4, .Facilities5{
+  text-align: center;
+}
+.Facilities4, .Facilities5{
+  margin-left: 12%;
+}
+.facility-photo:hover{
+  height: 230px;
+  width: 230px;
+  border-radius: 100%;
+}
+#meetus{
+  text-align: center;
+  padding: 2%;
+}
+.contact{
+  text-align: center;
+}
+.address{
+  text-align: center;
+}
+footer{
+  text-align: center;
+}
+section{
+  background-color: #f9e0ae;
+}
